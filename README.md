@@ -1,15 +1,9 @@
 <h1 align="center">Benson Kivuva</h1>
-<h3 align="center">Just a techie</h3>
+<h3 align="center">Just a tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camelcase-lover&label=Profile%20views&color=0e75b6&style=flat" alt="camelcase-lover" /> </p>
 
-- **DevOps**
-
-- **Hire me fast I need the cash.**
-  
--**Tunnels allowed**
-
-- **Automation at its peak, but pay or I leave a backdoor xd!**
+- **xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
