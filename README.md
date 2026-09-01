@@ -35,30 +35,17 @@ Motivation  █████████████████░░░  85%
 
 ---
 
-### ❤️ Support
+###  Support
 <p align="center">
 <br><br>
 
 <a href="https://github.com/sponsors/camelcase-lover">
-  <img src="https://img.shields.io/badge/❤️%20Sponsor%20my%20work-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor me on GitHub"/>
+  <img src="https://img.shields.io/badge/%20Sponsor%20my%20work-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor me on GitHub"/>
 </a>
 
 <br><br>
 
-<sub>
-Your sponsorship helps me keep building, experimenting, breaking things,
-and occasionally fixing them.
-</sub>
 
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camelcase-lover&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camelcase-lover&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
