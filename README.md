@@ -12,8 +12,8 @@
 ---
 
 
-* 🦀 Rust enjoyer
-* 🥷 Itachi would just stare at my GitHub and leave
+*  Rust enjoyer
+*  Itachi would just stare at my GitHub and leave
 
 
 
