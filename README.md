@@ -1,5 +1,3 @@
-<h1 align="center">Benson Kivuva</h1>
-
 <h3 align="center">Just a tech.</h3>
 
 <p align="center">
